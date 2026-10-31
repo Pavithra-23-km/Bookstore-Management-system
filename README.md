@@ -48,4 +48,3 @@ Learned Database Design, Normalization, Relationships (One-to-Many, Many-to-Many
 ⭐ Star this repository if you found it helpful!
 - Git & GitHub
 
-### 📂 Folder Structure
